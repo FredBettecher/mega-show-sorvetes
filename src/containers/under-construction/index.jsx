@@ -24,10 +24,10 @@ export default function UnderConstruction() {
         />
       </div>
       <div className="fixed bottom-4 right-0 flex w-full justify-center space-x-10 z-10">
-        <Link href={"https://www.instagram.com/megashowmais/"} target="_blank" rel="noopener noreferrer" className="text-9xl text-[#fff] hover:text-[#c9c9c9] hover:cursor-pointer transition duration-150">
+        <Link href={"https://www.instagram.com/megashowmais/"} target="_blank" rel="noopener noreferrer" className="text-9xl text-[#704896] hover:text-[#9476B2] hover:cursor-pointer transition duration-150">
           <FaSquareInstagram />
         </Link>
-        <Link href={"https://wa.me/+5521997118909"} target="_blank" rel="noopener noreferrer" className="text-9xl text-[#fff] hover:text-[#c9c9c9] hover:cursor-pointer">
+        <Link href={"https://wa.me/+5521997118909"} target="_blank" rel="noopener noreferrer" className="text-9xl text-[#704896] hover:text-[#9476B2] hover:cursor-pointer">
           <FaSquareWhatsapp />
         </Link>
       </div>
