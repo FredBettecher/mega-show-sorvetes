@@ -2,7 +2,6 @@ import BackgroundComponent from "@/components/Background";
 import { FaSquareInstagram, FaSquareWhatsapp } from "react-icons/fa6";
 import Image from "next/image";
 import Logo from "../../../public/logo.webp"
-import Text from "../../../public/images/under-construction/text.png"
 import Link from "next/link";
 
 export default function UnderConstruction() {
